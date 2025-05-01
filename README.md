@@ -1,7 +1,7 @@
 
-
-
 A browser based screenshot app, privacy focused (your data never leaves your browser, there's no backend).
+
+Try it ! https://mestachs.github.io/snip/
 
 ![screenshot under ubuntu](./doc/gallery.png "screenshot under ubuntu")
 
@@ -12,8 +12,10 @@ A browser based screenshot app, privacy focused (your data never leaves your bro
 
 # TODO
 
+Not sure I'll implement that but would be nice to
+
 - try to auto detect black "padding" in screenshots
-- allow user to annotate
+- allow user to annotate, resize, pan
 - delayed screenshot
 
 # Dev
